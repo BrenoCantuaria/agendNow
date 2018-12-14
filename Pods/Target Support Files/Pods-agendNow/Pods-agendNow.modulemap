@@ -1,0 +1,6 @@
+framework module Pods_agendNow {
+  umbrella header "Pods-agendNow-umbrella.h"
+
+  export *
+  module * { export * }
+}
